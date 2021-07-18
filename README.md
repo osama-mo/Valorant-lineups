@@ -1,16 +1,7 @@
-# valolineups
+# Valorant line ups
 
-A new Flutter project.
+Note: this app is not the final version 
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/63163036/126069771-1640917c-ccd5-4a94-acf9-c222d30f04e8.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/63163036/126069782-c1b41530-baef-4792-a76a-5d4249c05e33.png)
