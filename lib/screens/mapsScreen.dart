@@ -17,7 +17,7 @@ class MapsScreen extends StatelessWidget {
         children: [
           Container(
             child: Image.asset(
-              
+
               'assets/images/homeScreen_background.jpg',
               fit: BoxFit.fill,
             ),
