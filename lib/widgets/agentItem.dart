@@ -7,6 +7,7 @@ import 'package:valolineups/screens/mapsScreen.dart';
 
 class AgentItem extends StatelessWidget {
   final String id;
+  
   AgentItem(this.id);
 
   @override

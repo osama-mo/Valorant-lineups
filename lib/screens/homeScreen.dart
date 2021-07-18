@@ -67,6 +67,7 @@ class HomeScreen extends StatelessWidget {
                             blurRadius: 20)
                       ]),
                 ),
+                
                 style: ButtonStyle(
                   backgroundColor: MaterialStateProperty.resolveWith<Color>(
                     (Set<MaterialState> states) {

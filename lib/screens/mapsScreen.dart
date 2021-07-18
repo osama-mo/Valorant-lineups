@@ -28,6 +28,7 @@ class MapsScreen extends StatelessWidget {
             padding:
                 const EdgeInsets.only(top: 30, left: 10, right: 10, bottom: 10),
             itemCount: maps.length,
+            
             itemBuilder: (ctx, i) => MapItem(maps[i].id,agentId),
             gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
               crossAxisCount: 2,
